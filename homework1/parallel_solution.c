@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <omp.h>
 
-#define N 1000
+#define N 10
 #define NUM_THREADS 2
 
 int main() {
